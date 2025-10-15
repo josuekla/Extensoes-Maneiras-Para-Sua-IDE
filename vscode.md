@@ -12,6 +12,7 @@
   - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
+  - [In Your Face](https://marketplace.visualstudio.com/items?itemName=TTOOWA.in-your-face-incredible)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
   - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
@@ -64,6 +65,10 @@ Essa extensão colore parênteses, colchetes e chaves correspondentes com uma me
 ## Indent-Rainbow
 
 Essa extensão colore as suas identações, o que facilita muito a visualização nos diferentes níveis de identação do seu código. Os níveis de identação que não estão de acordo com o padrão estabelecido são destacados em vermelho, o que ajuda a identificá-los mais rapidamente. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+## In Your Face
+
+Essa extensão exibe “Ouch Faces” do senhor incrível que correspondem ao número de erros no seu código, oferecendo um feedback visual divertido e imediato sobre problemas no seu desenvolvimento. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TTOOWA.in-your-face-incredible)
 
 ## Live Server
 
